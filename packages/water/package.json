@@ -8,5 +8,9 @@
     },
     "keywords": [],
     "author": "Viktor Dzundza",
-    "license": "ISC"
+    "license": "ISC",
+    "devDependencies": {
+        "assert": "^1.4.1",
+        "mocha": "^5.1.1"
+    }
 }

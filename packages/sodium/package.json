@@ -4,9 +4,13 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "mocha"
     },
     "keywords": [],
     "author": "Viktor Dzundza",
-    "license": "ISC"
+    "license": "ISC",
+    "devDependencies": {
+        "assert": "^1.4.1",
+        "mocha": "^5.1.1"
+    }
 }
