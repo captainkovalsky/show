@@ -12,5 +12,8 @@
     "devDependencies": {
         "assert": "^1.4.1",
         "mocha": "^5.1.1"
+    },
+    "dependencies": {
+        "@vdzundza/water": "^1.0.3"
     }
 }
